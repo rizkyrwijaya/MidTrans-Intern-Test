@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Customer\ Class\ of\ the\ problem\r\n\r\n\ @author\ Rizky\ Ramadian\ Wijaya\r\n\ @version\ 6\ April\ 2018\r\n
+comment1.params=id\ email\ phone\ card
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=id\ email\ phone\ card
+comment2.target=void\ setCustomer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ printCustomer()
+comment4.params=count
+comment4.target=void\ setCount(int)
+numComments=5

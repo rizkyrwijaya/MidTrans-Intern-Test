@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=id\ email\ phone\ card
+comment1.target=Transaction(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=id\ email\ phone\ card
+comment2.target=void\ addTransaction(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ checkCustomer()
+numComments=4
